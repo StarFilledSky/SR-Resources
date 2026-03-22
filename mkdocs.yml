@@ -1,0 +1,44 @@
+site_name: My Docs
+site_url: https://starfilledsky.github.io/SR-Resources/
+docs_dir: src/
+site_dir: docs/
+repo_url: https://github.com/StarFilledSky/SR-Resources
+
+# watch: [mkdocs.yml, src/Targets.md]
+
+
+plugins:
+  - search
+  # - autorefs #todo look into
+extra_css:
+  - assets/stylesheets/extra.css
+
+# nav:
+#  - Targets.md
+
+
+theme:
+  favicon: assets/images/favicon.ico
+  name: material
+  features:
+    - search.highlight
+    - search.suggest
+    - search.share
+    - toc.follow
+    # - toc(permalink=true): #haven't gotten this working yet
+    #   permalink: "✿"
+  
+
+  palette:
+    - scheme: slate
+      toggle:
+          icon: material/brightness-4
+          name: Switch to light mode
+      primary: deep purple
+      accent: blue
+
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
