@@ -1,8 +1,8 @@
 site_name: My Docs
 site_url: https://starfilledsky.github.io/SR-Resources/
+repo_url: https://github.com/StarFilledSky/SR-Resources/
 docs_dir: src/
 site_dir: docs/
-repo_url: https://github.com/StarFilledSky/SR-Resources
 
 # watch: [mkdocs.yml, src/Targets.md]
 
