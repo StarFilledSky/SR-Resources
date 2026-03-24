@@ -15,8 +15,8 @@ Todo google forms:
 
 The wiki is created by making [markdown](https://www.markdownguide.org/getting-started/) files and [material](https://squidfunk.github.io/mkdocs-material/) for [mkdocs](https://www.mkdocs.org/) turning them into webpages. Instructions for if you wanted to build it locally for some reason:
 
-!!! note  
-    This assumes you already have python installed.
+> [!Note]  
+> This assumes you already have python installed and have familiarity with the terminal.
 
 Clone the repository.
 git clone https://github.com/StarFilledSky/SR-Wiki
