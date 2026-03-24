@@ -1,14 +1,21 @@
 site_name: My Docs
-site_url: https://starfilledsky.github.io/SR-Resources/
-repo_url: https://github.com/StarFilledSky/SR-Resources/
+site_url: https://starfilledsky.github.io/SR-Wiki/
+repo_url: https://github.com/StarFilledSky/SR-Wiki/
 docs_dir: src/
 site_dir: docs/
 
 # watch: [mkdocs.yml, src/Targets.md]
 
+markdown_extensions:
+  - admonition
+  - attr_list
+  - pymdownx.details
+  - pymdownx.superfences
 
 plugins:
   - search
+  - document-dates
+
   # - autorefs #todo look into
 extra_css:
   - assets/stylesheets/extra.css
@@ -27,7 +34,6 @@ theme:
     - toc.follow
     # - toc(permalink=true): #haven't gotten this working yet
     #   permalink: "✿"
-  
 
   palette:
     - scheme: slate
