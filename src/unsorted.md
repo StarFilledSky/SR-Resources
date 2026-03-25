@@ -46,6 +46,9 @@ need to find/make a console ws list
 
 ## modding:  
 
+steam guide on modding [link](https://steamcommunity.com/sharedfiles/filedetails/?id=329493424)
+
+
 ## Velo
  [ecluhost installing velo](https://www.youtube.com/watch?v=L82ndSCf1IQ)  
  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L82ndSCf1IQ" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -56,6 +59,7 @@ Contains the Velo lua guide and the SR level api.
 Velo-Docs [link](https://starfilledsky.github.io/Velo-Docs/Targets/)
 Documentation of fields and targets availiable to lua scripting with Velo made searchable by mkdocs. Repo maintained by sky!! not rbit.  
 
+rbit's tas guide in the sr discord [link](https://discord.com/channels/211576474254311425/268819992936579075/1431714350795718854)
 
 
 
@@ -76,7 +80,14 @@ Velo-Docs [link](https://starfilledsky.github.io/Velo-Docs/Targets/)
 
 ## todo
 
-rbit's tas guide in the sr discord [link](https://discord.com/channels/211576474254311425/268819992936579075/1431714350795718854)
+basics of the game  
+
+making trails  
+
+making skins  
+    what animations and frame count  
+    processes  
+    available tools  
 
 
 variables that are nice to know but aren't really written down anywhere

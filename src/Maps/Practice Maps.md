@@ -22,7 +22,8 @@ I think the second is the original but the first has more competitive Velo leade
 - SUN SET [link](https://steamcommunity.com/sharedfiles/filedetails/?id=3437560607)    
 - slopes v1 [link](https://steamcommunity.com/sharedfiles/filedetails/?id=2648817863)  
 
-These maps seem less useful for learning slope surfing but may be useful in some other way so I'll include them.
+!!! note
+    These maps seem less useful for learning slope surfing but may be useful in some other way so I'll include them.
 
 - slope surf practice [link](https://steamcommunity.com/sharedfiles/filedetails/?id=2915958601)  
 - Slope Surfing Circuit [link](https://steamcommunity.com/sharedfiles/filedetails/?id=2915958601)  
