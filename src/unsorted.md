@@ -43,33 +43,6 @@ This page is just to store information that doesn't have a specific place for it
 incomplete list on all rws https://steamcommunity.com/sharedfiles/filedetails/?id=2009665691
 need to find/make a console ws list
 
-## practice maps  
-
-### spam / straight grapple  
-- [Grapple Circuit by trip](https://steamcommunity.com/sharedfiles/filedetails/?id=1399530740)  
-- [Grapple Warmup by rbit](https://steamcommunity.com/sharedfiles/filedetails/?id=1566224884)  
-- [grapple Test LEZTY.](https://steamcommunity.com/sharedfiles/filedetails/?id=2421953660)  
-
-i think the second is the original but the first has more competitive velo leaderboards  
-fast grapple training:  
-> 1. [by Teca](https://steamcommunity.com/sharedfiles/filedetails/?id=3512890433)  
-> 2. [by Popcorn](https://steamcommunity.com/sharedfiles/filedetails/?id=616125220) 
-
-- [straight grapples MP (easy) by bean boy](https://steamcommunity.com/sharedfiles/filedetails/?id=3594461951)  
-- [straight grapples MP (medium) by bean boy](https://steamcommunity.com/sharedfiles/filedetails/?id=3594460142)  
-- [straight grapples MP (hard) by bean boy](https://steamcommunity.com/sharedfiles/filedetails/?id=3510414631)  
-
-### slope surfing  
-- [SUN SET by bianco](https://steamcommunity.com/sharedfiles/filedetails/?id=3437560607)    
-- [slopes v1 by olsu](https://steamcommunity.com/sharedfiles/filedetails/?id=2648817863)  
-
- 
-
-### boost tapping
-- [boost tapping practice by rbit](https://st!importanteamcommunity.com/sharedfiles/filedetails/?id=2803710312)  
-
-### gainers
-- [Evil bonkers jumps! by bianco](https://steamcommunity.com/sharedfiles/filedetails/?id=3378378567)
 
 ## modding:  
 
@@ -77,33 +50,43 @@ fast grapple training:
  [ecluhost installing velo](https://www.youtube.com/watch?v=L82ndSCf1IQ)  
  <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/L82ndSCf1IQ" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-rbit's sr github  Contains the Velo lua guide and the SR level api
-https://github.com/rbit-sr
+rbit's sr github [link](https://github.com/rbit-sr)  
+Contains the Velo lua guide and the SR level api.
+
+Velo-Docs [link](https://starfilledsky.github.io/Velo-Docs/Targets/)
+Documentation of fields and targets availiable to lua scripting with Velo made searchable by mkdocs. Repo maintained by sky!! not rbit.  
+
+
+
+
 
 ##asset making
 
-[Webapp](https://lybell-art.github.io/xnb-js/) for packing and unpacking xnb images by lybell-art
+xnb-js [link](https://lybell-art.github.io/xnb-js/)  
+A webapp and library for packing and unpacking xnb images in the browser.  
 
-[VariantX](https://variantx.pages.dev/): a webapp to help with the player models made by astro
-https://variantx.pages.dev/
-<video controls><source src="../assets/videos/variantx.mp4"></video>
-[Website](https://www.speedrunners.cn) that has a lot of trails/other modded assets and also tracks stats made by TinyMaD
+VariantX [link](https://variantx.pages.dev/)  
+a webapp for exporting organized sprite sheets for skin edting among other functions along with a lua script for Aesprite.  
+<video controls><source src="../assets/videos/variantx.mp4"></video>  
+
+TinyMaD website [link](https://www.speedrunners.cn)  
+It has a large collection of trails as well as other modded assets. It also has stats tracking.
   
+Velo-Docs [link](https://starfilledsky.github.io/Velo-Docs/Targets/)
 
-## idk
+## todo
+
+rbit's tas guide in the sr discord [link](https://discord.com/channels/211576474254311425/268819992936579075/1431714350795718854)
 
 
 variables that are nice to know but aren't really written down anywhere
 
 0.25 seconds between swing time
 0.25 jump state length
-
 slide cooldown
 jump values and how jump works
 
 
+find tournament history
 
 
-!!! note "Page Contributions"
-    list of names here
-    test one, two-three, aaaa

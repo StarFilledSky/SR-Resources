@@ -18,19 +18,19 @@ The wiki is created by making [markdown](https://www.markdownguide.org/getting-s
 > [!Note]  
 > This assumes you already have python installed and have familiarity with the terminal.
 
-Clone the repository.
-git clone https://github.com/StarFilledSky/SR-Wiki
+Clone the repository.  
+``git clone https://github.com/StarFilledSky/SR-Wiki``  
 
-Create a python virtual environment in the directory.
-python -m venv venv
+Create a python virtual environment in the directory.  
+``python -m venv venv``  
 
-Activating the virtual enviroment.
-Windows
-./venv/Scripts/Activate.ps1
-Linux / MacOS
-source myvenv/bin/activate
+Activating the virtual enviroment.  
+Windows  
+``./venv/Scripts/Activate.ps1``  
+Linux / MacOS  
+source myvenv/bin/activate``
 
-Install the requirements for building the project.
-pip install -r requirements.txt
+Install the requirements for building the project.  
+``pip install -r requirements.txt``
 
 You can now edit files in the src/ directory and use `mkdocs build` to generate files in the docs/ directory and `mkdocs serve` if you wanted to view the files served from a local webserver.
