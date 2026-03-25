@@ -1,10 +1,14 @@
 
+This page is just to store information that doesn't have a specific place for it yet but should be somewhere.
+
+
+
+
 ## Starter tutorials  
 [Incursio](https://www.youtube.com/watch?v=P9hxw5IpDLs)  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/P9hxw5IpDLs" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Speedrunners tech:  
-
 ### [rbit tech video](https://www.youtube.com/watch?v=6FAWh6F47dM)  
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6FAWh6F47dM" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -26,6 +30,9 @@
 
 [rocketlaunch / smileywalking by Synz](https://www.youtube.com/watch?v=mJxgh8r0UiM)
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/mJxgh8r0UiM" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+[General / map specific tech by Myddo](https://www.youtube.com/watch?v=KkmhCHJgivs)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/KkmhCHJgivs" title="YouTube video player" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## maps:  
 - [current rws steam workshop collection](https://steamcommunity.com/profiles/76561198172969226/myworkshopfiles/)  
@@ -59,7 +66,7 @@ fast grapple training:
  
 
 ### boost tapping
-- [boost tapping practice by rbit](https://steamcommunity.com/sharedfiles/filedetails/?id=2803710312)  
+- [boost tapping practice by rbit](https://st!importanteamcommunity.com/sharedfiles/filedetails/?id=2803710312)  
 
 ### gainers
 - [Evil bonkers jumps! by bianco](https://steamcommunity.com/sharedfiles/filedetails/?id=3378378567)
@@ -84,3 +91,19 @@ https://variantx.pages.dev/
   
 
 ## idk
+
+
+variables that are nice to know but aren't really written down anywhere
+
+0.25 seconds between swing time
+0.25 jump state length
+
+slide cooldown
+jump values and how jump works
+
+
+
+
+!!! note "Page Contributions"
+    list of names here
+    test one, two-three, aaaa
