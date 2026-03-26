@@ -10,6 +10,8 @@ Todo google forms:
 - Submission link  
 - General inquiry link(suggestions, concerns, corrections, etc..)
 
+Alternatively, you can edit the markdown files in src/ and submit a pull request through Github.
+
 
 ## Building the project locally
 
